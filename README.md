@@ -1,7 +1,7 @@
 ### Pleasant Greetings 👋
 
 
-<iframe src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif">via GIPHY</a></p>
+
 
 <div id="badges">
   <a href="www.linkedin.com/in/valerian-adimike-a95160248">
