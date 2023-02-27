@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m Studying at CodeLab.
 - 🌱 I’m currently learning React Redux.
 - 💬 Ask me about anything or discuss anything with me on Typescript ...Let's Exploring Technical Content Writing.
-- 📫 How to reach me:ValerianPedro valerianpedro03@gmail.comm
+- 📫 How to reach me:www.linkedin.com/in/valerian-adimike-a95160248 valerianpedro03@gmail.comm
 
 
 LANGUAGE and STACKS:
