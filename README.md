@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m Studying at CodeLab.
 - 💬 Ask me about anything or discuss anything with me on Typescript ...Let's Exploring Technical Content Writing.
-- 📫 How to reach me: www.linkedin.com/in/valerian-adimike-a95160248 valerianpedro03@gmail.comm @ValerianPedro 
+- 📫 How to reach me: www.linkedin.com/in/valerian-adimike-a95160248 valerianpedro03@gmail.comm 
 
 
 LANGUAGE and STACKS:
