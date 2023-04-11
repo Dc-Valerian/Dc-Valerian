@@ -12,8 +12,8 @@
   </a>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria 
- I’m an inspiring Software Engineer that wishes contribute to frontend and backend for building web applications.
+I am a Full Stack Developer From Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ 
 
 - 🔭 I’m Studying at CodeLab.
 - 💬 Ask me about anything or discuss anything with me on Typescript ...Let's Exploring Technical Content Writing.
