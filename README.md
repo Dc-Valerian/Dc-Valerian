@@ -36,7 +36,7 @@ I am not just a coder; I am a problem solver. My ability to think critically and
 Feel free to explore my repository for a showcase of projects I've worked on. From interactive React applications to robust backend systems, my portfolio reflects my commitment to excellence in every aspect of software development.
 
 🔹 Connect with Me
-I am open to collaboration, learning opportunities, and networking. Let's connect and create something amazing together! You can reach me through LinkedIn or by emailing me at sannifortune11@gmail.com.
+I am open to collaboration, learning opportunities, and networking. Let's connect and create something amazing together! You can reach me through LinkedIn or by emailing me at valerianpedro03@gmail.com.
 
 Thank you for visiting my GitHub profile. Your feedback and suggestions are always welcome. Stay curious, keep coding! 🚀❕
 
