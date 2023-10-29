@@ -42,9 +42,6 @@ I am open to collaboration, learning opportunities, and networking. Let's connec
 
 Thank you for visiting my GitHub profile. Your feedback and suggestions are always welcome. Stay curious, keep coding! 🚀❕
 
-No🔚
-
-
 
 
 <div align="center">
