@@ -60,3 +60,6 @@ I am open to collaboration, learning opportunities, and networking. Let's connec
 
 ![](https://github-readme-stats.vercel.app/api?username=Dc-Valerian&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dc-Valerian&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
