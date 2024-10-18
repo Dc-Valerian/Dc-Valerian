@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Dc-Valerian&label=Profile%20Views&color=7&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <a href="https://github.com/ghostdev-labs/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My%20Name%20is%20Valerian%20Pedro%20Adimike.Frontend%20Developer%20&%20React%20Instructor%20at%20Aledoy%20Academy%20Lagos;I%20loveee%20Technology!%20💫😮‍💨🥺;I%20am%20a%20Software%20Engineer,%20Graphics%20Designer;I%20am%20passionate%20about%20all%20aspects%20of%20Tech.;I%20am%20an%20Entrepreneur.&font=Fira%20Code&center=true&width=550&height=45&color=#3498db&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/ghostdev-labs/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My%20Name%20is%20Valerian%20Pedro%20Adimike.;I%20loveee%20Technology!%20💫😮‍💨🥺;I%20am%20a%20Software%20Engineer,%20Graphics%20Designer;I%20am%20passionate%20about%20all%20aspects%20of%20Tech.;I%20am%20an%20Entrepreneur.&font=Fira%20Code&center=true&width=550&height=45&color=#3498db&vCenter=true&size=22&pause=1000"></a>
 </p>        
 
 
