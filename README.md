@@ -16,7 +16,7 @@
 
 ### <h1 align="center">Hey there! I'm Valerian Adimike, a passionate fullstack software engineer from Nigeria 👨‍💻</h1>
 
-<p align="center">🌱 Currently, I'm immersing myself in the world of NextJs and React.ts and Vite and tailwindCss.<br>
+<p align="center">🌱 Currently, I'm immersing myself in the world of NextJs,React.ts,Vite and tailwindCss.<br>
 ❓ Feel free to inquire about the MERN stack and related technologies.<br>
 📫 Reach out to me at valerianpedro03@gmail.com.<br>
 ⚡ Fun fact: I believe I have a knack for humor 👽😶‍🌫️👻.</p>
