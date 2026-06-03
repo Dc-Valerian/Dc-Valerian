@@ -14,7 +14,7 @@
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 250px" />
 </div>
 
-### <h1 align="center">Hey there! I'm Valerian Adimike, a passionate fullstack software engineer from Nigeria 👨‍💻</h1>
+### <h1 align="center">Hey there! I'm Valerian Adimike, a Passionate Fullstack Software Engineer👨‍💻</h1>
 
 <p align="center">🌱 Currently, I'm immersing myself in the world of NextJs,React.ts,Vite and tailwindCss.<br>
 ❓ Feel free to inquire about Software Development and related technologies.<br>
